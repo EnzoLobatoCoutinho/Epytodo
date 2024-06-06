@@ -2,7 +2,7 @@
 
 ## Presentation
 
-Epytodo est un projet ou il fallait faire le backend d'une todoliste
+Epytodo est un projet ou il fallait faire le backend d'une to-do list
 
 ## Comment sa fonctionne ?
 
